@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCode",
+      "LiSettings",
+      "LiUser",
+      "LiBook",
+      "LiUploadCloud"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Knowledge/Web Development": "LiChrome",
+  "Knowledge/AI": "LiBot",
+  "Knowledge/Automation": "LiWrench",
+  "Knowledge/Cloud": "LiCloud",
+  "Knowledge/DevOps": "LiUploadCloud",
+  "Knowledge/Cybersecurity": "LiLock",
+  "Knowledge/Databases": "LiDatabase",
+  "Knowledge/Mobile Development": "LiSmartphone",
+  "Knowledge/Programming": "LiCode",
+  "Knowledge": "LiBook",
+  "Life": "LiUser",
+  "Life/Milestones": "LiFlag",
+  "Life/Goals": "LiTrophy",
+  "Miscellaneous/Archive": "LiArchive",
+  "Miscellaneous/Templates": "LiLayoutTemplate",
+  "Miscellaneous": "LiSettings"
+}
