@@ -1,0 +1,10 @@
+
+[AI](AI/AI.md)
+[Automation](Automation/Automation.md)
+[Cloud](Cloud/Cloud.md)
+[Cybersecurity](Cybersecurity/Cybersecurity.md)
+[Databases](Databases/Databases.md)
+[DevOps](DevOps/DevOps.md)
+[Mobile Development](Mobile%20Development/Mobile%20Development.md)
+[Programming](Programming/Programming.md)
+[Web Development](Web%20Development/Web%20Development.md)
