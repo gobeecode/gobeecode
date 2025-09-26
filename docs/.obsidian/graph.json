@@ -25,7 +25,7 @@
       "query": "path:Miscellaneous  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 14075484
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7963478577548746,
+  "scale": 1.116466077252969,
   "close": true
 }

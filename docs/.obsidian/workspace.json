@@ -11,10 +11,14 @@
             "id": "8d959b9b5d41c3b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/AI/LLM/LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM"
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Knowledge/AI/LLM/LLM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of LLM"
             }
           },
           {
@@ -230,12 +235,19 @@
   },
   "active": "8d959b9b5d41c3b4",
   "lastOpenFiles": [
-    "Knowledge/Knowledge.md",
-    "Home.md",
-    "Life/Life.md",
+    "Knowledge/AI/LLM/General/General.md",
+    "Knowledge/AI/LLM/General/References/References.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/References/References.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/Notes.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/LLM Engineering.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
+    "Miscellaneous/Miscellaneous.md",
+    "Miscellaneous/Templates/Templates.md",
+    "Knowledge/Automation/Automation.md",
+    "Home.md",
+    "Knowledge/Knowledge.md",
+    "Life/Life.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
     "Knowledge/AI/LLM/Courses/Courses.md",
     "Knowledge/AI/LLM/LLM.md",
     "Knowledge/AI/AI.md",
@@ -244,21 +256,14 @@
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/05 - Setup OpenAI.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/04 - Setup Virtualenv.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/03 - Setup Anaconda.md",
-    "Miscellaneous/Templates/Templates.md",
     "Miscellaneous/Archive/Archive.md",
     "Life/Milestones/Milestones.md",
     "Life/Goals/Goals.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/References/References.md",
-    "Miscellaneous/Miscellaneous.md",
     "Miscellaneous/Untitled.md",
     "Knowledge/Programming/Programming.md",
-    "Knowledge/Cloud/Cloud.md",
-    "sortspec.md",
     "Miscellaneous",
     "Life",
     "Knowledge",
-    "Knowledge/DevOps/DevOps.md",
     "Knowledge/DevOps",
     "Life/Goals",
     "Technologies",
