@@ -259,6 +259,8 @@
   },
   "active": "8d959b9b5d41c3b4",
   "lastOpenFiles": [
+    "Home.md",
+    "Knowledge/index.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Resources/_category_.json",
     "Knowledge/AI/LLM/Courses/LLM Engineering/References/_category_.json",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/_category_.json",
@@ -270,7 +272,6 @@
     "Knowledge/_category_.json",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
     "_category_.json",
-    "gobeecode",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/03 - Setup Anaconda.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/04 - Setup Virtualenv.md",
@@ -293,7 +294,6 @@
     "Knowledge/Automation/Automation.md",
     "Life/Life.md",
     "Workbook.md",
-    "Miscellaneous/Archive/Archive.md",
-    "Life/Milestones/Milestones.md"
+    "Miscellaneous/Archive/Archive.md"
   ]
 }
