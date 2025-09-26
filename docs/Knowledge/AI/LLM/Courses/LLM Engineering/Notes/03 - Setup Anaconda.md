@@ -1,3 +1,4 @@
+
 ## Setup Instructions
 1. [Download](https://git-scm.com/downloads) and Install Git
 2. [Download](https://www.anaconda.com/download/success) and Install Anaconda (or Miniconda if you do not have enough memory).

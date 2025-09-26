@@ -11,10 +11,14 @@
             "id": "8d959b9b5d41c3b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Introduction"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 366.5
   },
   "right": {
     "id": "7f1bc2dac18719f4",
@@ -116,18 +120,48 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "file:Home",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084202
+                      }
+                    },
+                    {
+                      "query": "path:Knowledge  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6074838
+                      }
+                    },
+                    {
+                      "query": "path:Life  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:Miscellaneous  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14075484
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -138,12 +172,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7108694604315634,
+                  "scale": 0.7108694604315613,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 01 - Introduction"
             }
           },
           {
@@ -230,39 +264,38 @@
   },
   "active": "8d959b9b5d41c3b4",
   "lastOpenFiles": [
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/03 - Setup Anaconda.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/04 - Setup Virtualenv.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/05 - Setup OpenAI.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/06 - Setup Environment Variables.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/Notes.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/LLM Engineering.md",
+    "Knowledge/AI/LLM/Courses/Courses.md",
+    "Knowledge/AI/LLM/LLM.md",
+    "Knowledge/AI/AI.md",
+    "Knowledge/Knowledge.md",
     "Home.md",
+    "Life/Goals/Goals.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/_category_.json",
     "Knowledge/AI/LLM/Courses/_category_.json",
     "Knowledge/AI/LLM/_category_.json",
     "Knowledge/AI/_category_.json",
     "Knowledge/_category_.json",
     "Codebook.md",
-    "Knowledge/AI/LLM/LLM.md",
     "home",
     "_category_.json",
     "Knowledge/AI/LLM/General/General.md",
     "Knowledge/AI/LLM/General/References/References.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/References/References.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/Notes.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/LLM Engineering.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
     "Miscellaneous/Miscellaneous.md",
     "Miscellaneous/Templates/Templates.md",
     "Knowledge/Automation/Automation.md",
-    "Home.md",
-    "Knowledge/Knowledge.md",
     "Life/Life.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
-    "Knowledge/AI/LLM/Courses/Courses.md",
-    "Knowledge/AI/AI.md",
     "Workbook.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/06 - Setup Environment Variables.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/05 - Setup OpenAI.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/04 - Setup Virtualenv.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/03 - Setup Anaconda.md",
     "Miscellaneous/Archive/Archive.md",
     "Life/Milestones/Milestones.md",
-    "Life/Goals/Goals.md",
     "Miscellaneous",
     "Life",
     "Knowledge"

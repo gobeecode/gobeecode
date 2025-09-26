@@ -1,3 +1,4 @@
+
 Note: This is an alternative setup to [03 - Setup Anaconda](03%20-%20Setup%20Anaconda.md). If you already have anaconda setup done, you will not need this.
 
 ## Setup Instructions

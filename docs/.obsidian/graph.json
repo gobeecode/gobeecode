@@ -1,17 +1,24 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:Home",
+      "color": {
+        "a": 1,
+        "rgb": 7001692
+      }
+    },
+    {
       "query": "path:Knowledge  ",
       "color": {
         "a": 1,
-        "rgb": 5348797
+        "rgb": 6072278
       }
     },
     {
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.796347857754873,
-  "close": true
+  "scale": 0.7963478577548675,
+  "close": false
 }

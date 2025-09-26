@@ -1,3 +1,4 @@
+
 ## What is Ollama?
 Ollama is an open-source application that allows us to create, run and share large language models locally with command-line interface.
 
