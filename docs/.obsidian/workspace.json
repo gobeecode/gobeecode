@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d3ca9b32e7415587",
+    "id": "593a3a927e02c97f",
     "type": "split",
     "children": [
       {
-        "id": "f22a196fd76b50f8",
+        "id": "40bcfeb20342d1e3",
         "type": "tabs",
         "children": [
           {
-            "id": "8d959b9b5d41c3b4",
+            "id": "be25008e5e0377a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01 - Introduction"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3b2a3c3958eeded",
+    "id": "1ccd06664a99a8ba",
     "type": "split",
     "children": [
       {
-        "id": "5d6738ab65a519fb",
+        "id": "c9f60fee9e2bd981",
         "type": "tabs",
         "children": [
           {
-            "id": "5600a05af462fc99",
+            "id": "4a6baed76110b33a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "2adc866347c9c648",
+            "id": "363a0fe1355941fa",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "flutter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "eadb194abc18360e",
+            "id": "5dbef5c82fc0613b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,115 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 300
   },
   "right": {
-    "id": "7f1bc2dac18719f4",
+    "id": "de7711da1ac22d1e",
     "type": "split",
     "children": [
       {
-        "id": "0ea7d581c5263440",
+        "id": "9b48db01e5c0a38a",
         "type": "tabs",
         "children": [
           {
-            "id": "15aae8e5f1f63957",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "b3bff9c3ce58277c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          }
-        ]
-      },
-      {
-        "id": "95e9d2bfcc04ac24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ea5ea93bbb593ed",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "file:Home",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084202
-                      }
-                    },
-                    {
-                      "query": "path:Knowledge  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6074838
-                      }
-                    },
-                    {
-                      "query": "path:Life  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "path:Miscellaneous  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14075484
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7108694604315613,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 01 - Introduction"
-            }
-          },
-          {
-            "id": "6753c778e18e3ab7",
+            "id": "e42b05f20896d8f4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "specsort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for specsort"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ba88573ee57a9612",
+            "id": "0663fa3b0edaac69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "401c8b0108c69dfa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -215,39 +131,25 @@
             }
           },
           {
-            "id": "784b66a9d27ead47",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "specsort.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from specsort"
-            }
-          },
-          {
-            "id": "8375ffb9ad8454e0",
+            "id": "8a9f989d56ee508b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "specsort.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of specsort"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,47 +159,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "bases:Create new base": false
     }
   },
-  "active": "8d959b9b5d41c3b4",
-  "lastOpenFiles": [
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/03 - Setup Anaconda.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/04 - Setup Virtualenv.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/05 - Setup OpenAI.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/06 - Setup Environment Variables.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/Notes.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/LLM Engineering.md",
-    "Knowledge/AI/LLM/Courses/Courses.md",
-    "Knowledge/AI/LLM/LLM.md",
-    "Knowledge/AI/AI.md",
-    "Knowledge/Knowledge.md",
-    "Home.md",
-    "Life/Goals/Goals.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/_category_.json",
-    "Knowledge/AI/LLM/Courses/_category_.json",
-    "Knowledge/AI/LLM/_category_.json",
-    "Knowledge/AI/_category_.json",
-    "Knowledge/_category_.json",
-    "Codebook.md",
-    "home",
-    "_category_.json",
-    "Knowledge/AI/LLM/General/General.md",
-    "Knowledge/AI/LLM/General/References/References.md",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/References/References.md",
-    "Miscellaneous/Miscellaneous.md",
-    "Miscellaneous/Templates/Templates.md",
-    "Knowledge/Automation/Automation.md",
-    "Life/Life.md",
-    "Workbook.md",
-    "Miscellaneous/Archive/Archive.md",
-    "Life/Milestones/Milestones.md",
-    "Miscellaneous",
-    "Life",
-    "Knowledge"
-  ]
+  "active": "be25008e5e0377a1",
+  "lastOpenFiles": []
 }
