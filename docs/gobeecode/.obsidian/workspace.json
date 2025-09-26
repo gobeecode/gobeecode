@@ -11,10 +11,14 @@
             "id": "8d959b9b5d41c3b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Setup Ollama"
             }
           }
         ]
@@ -116,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 02 - Setup Ollama"
             }
           },
           {
@@ -259,6 +264,7 @@
   },
   "active": "8d959b9b5d41c3b4",
   "lastOpenFiles": [
+    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
     "Home.md",
     "Knowledge/index.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Resources/_category_.json",
@@ -270,7 +276,6 @@
     "Knowledge/AI/LLM/_category_.json",
     "Knowledge/AI/_category_.json",
     "Knowledge/_category_.json",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/01 - Introduction.md",
     "_category_.json",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/03 - Setup Anaconda.md",
