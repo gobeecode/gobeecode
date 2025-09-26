@@ -11,14 +11,10 @@
             "id": "8d959b9b5d41c3b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/AI/LLM/LLM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -120,7 +116,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Knowledge/AI/LLM/LLM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +143,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of LLM"
+              "title": "Graph view"
             }
           },
           {
@@ -235,6 +230,16 @@
   },
   "active": "8d959b9b5d41c3b4",
   "lastOpenFiles": [
+    "Home.md",
+    "Knowledge/AI/LLM/Courses/LLM Engineering/_category_.json",
+    "Knowledge/AI/LLM/Courses/_category_.json",
+    "Knowledge/AI/LLM/_category_.json",
+    "Knowledge/AI/_category_.json",
+    "Knowledge/_category_.json",
+    "Codebook.md",
+    "Knowledge/AI/LLM/LLM.md",
+    "home",
+    "_category_.json",
     "Knowledge/AI/LLM/General/General.md",
     "Knowledge/AI/LLM/General/References/References.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/References/References.md",
@@ -249,7 +254,6 @@
     "Life/Life.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/02 - Setup Ollama.md",
     "Knowledge/AI/LLM/Courses/Courses.md",
-    "Knowledge/AI/LLM/LLM.md",
     "Knowledge/AI/AI.md",
     "Workbook.md",
     "Knowledge/AI/LLM/Courses/LLM Engineering/Notes/06 - Setup Environment Variables.md",
@@ -259,17 +263,8 @@
     "Miscellaneous/Archive/Archive.md",
     "Life/Milestones/Milestones.md",
     "Life/Goals/Goals.md",
-    "Miscellaneous/Untitled.md",
-    "Knowledge/Programming/Programming.md",
     "Miscellaneous",
     "Life",
-    "Knowledge",
-    "Knowledge/DevOps",
-    "Life/Goals",
-    "Technologies",
-    "Life/Milestones",
-    "Knowledge/AI/LLM/General/References",
-    "Knowledge/AI/LLM/Courses/LLM Engineering/References",
-    "Knowledge/AI/LLM/General"
+    "Knowledge"
   ]
 }

@@ -33,21 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Knowledge/Web Development": "LiChrome",
-  "Knowledge/AI": "LiBot",
-  "Knowledge/Automation": "LiWrench",
-  "Knowledge/Cloud": "LiCloud",
-  "Knowledge/DevOps": "LiUploadCloud",
-  "Knowledge/Cybersecurity": "LiLock",
-  "Knowledge/Databases": "LiDatabase",
-  "Knowledge/Mobile Development": "LiSmartphone",
-  "Knowledge/Programming": "LiCode",
-  "Knowledge": "LiBook",
-  "Life": "LiUser",
-  "Life/Milestones": "LiFlag",
-  "Life/Goals": "LiTrophy",
-  "Miscellaneous/Archive": "LiArchive",
-  "Miscellaneous/Templates": "LiLayoutTemplate",
-  "Miscellaneous": "LiSettings"
+  }
 }
