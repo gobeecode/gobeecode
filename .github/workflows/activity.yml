@@ -1,23 +1,17 @@
-name: Update GitHub Recent Activity
-
+name: Update README
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:      # Allows manual trigger
-  push:
-    branches:
-      - main
-
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
-  update-activity:
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-
-      - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
-          username: gobeecode
-          limit: 10
-          include: commits,pullRequests,issues,discussions
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
