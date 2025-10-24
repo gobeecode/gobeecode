@@ -18,3 +18,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: gobeecode
+          COMMIT_MSG: "Recent activity updated in README.md"
+          MAX_LINES: 10
+          COMMIT_NAME: GitHub Activity
