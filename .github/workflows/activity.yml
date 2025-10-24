@@ -12,10 +12,9 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
       - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@v1
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
         with:
           GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
           username: gobeecode
