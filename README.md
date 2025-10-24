@@ -43,10 +43,20 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 
 ## ☕ Support Me
 
-If my work helped you, consider buying me a coffee or supporting me via Razorpay!
+If my work helped you, consider supporting me via the below links 👇
 
-- 🧾 [Buy Me a Coffee](https://www.buymeacoffee.com/gobeecode)
-- 💳 [Razorpay](https://razorpay.me/@gobeecode)
+<p align="left">
+  <!-- Buy Me a Coffee -->
+  <a href="https://buymeacoffee.com/gobeecode" target="_blank" style="margin-right:12px">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&labelColor=00000000&color=FFDD00&logo=buymeacoffee&logoColor=000" alt="Buy Me A Coffee" />
+  </a>
+  <!-- Razorpay -->
+  <a href="https://razorpay.me/@gobeecode" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20(via%20Razorpay)-FFDD00?style=for-the-badge&labelColor=00000000&color=FFDD00&logo=razorpay&logoColor=000" alt="Donate via Razorpay" />
+  </a>
+</p>
+
+
 
 ## 🔗 Connect with Me
 
