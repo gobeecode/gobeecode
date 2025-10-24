@@ -1,7 +1,9 @@
 
 <h1 align="left"> Hi, There 👋 I'm Gopalakrishnan (@GobeeCode)</h1>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gobeecode.visitor-badge&left_color=blue&right_color=gray&left_text=Viewers)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gobeecode&label=Profile%20Views&color=10b981&style=for-the-badge" alt="profile views" />
+</p>
 
 I'm a passionate **Software Engineer** with over a **decade of experience** in building and testing enterprise-grade applications.
 
