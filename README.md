@@ -47,6 +47,8 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 
 ###  Latest GitHub Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#106100](undefined) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 💪 Opened PR [#106092](undefined) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 
