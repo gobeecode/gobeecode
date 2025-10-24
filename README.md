@@ -1,9 +1,7 @@
 
 <h1 align="left"> Hi, There 👋 I'm Gopalakrishnan (aka GobeeCode)</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gobeecode&style=flat-square&color=red" alt="views"/>
-</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gobeecode.visitor-badge&left_color=blue&right_color=gray&left_text=Viewers)
 
 I'm a passionate **Software Engineer** with over a **decade of experience** in building and testing enterprise-grade applications.
 
@@ -33,11 +31,13 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&theme=aura_dark" height="180" />
-</p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&theme=dark&hide_border=true)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F85C4D&center=false&vCenter=true&random=true&width=500&height=50&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gobeecode&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gobeecode&theme=merko&&days=30&height=600&hide_border=true)](https://github.com/gobeecode/github-readme-activity-graph)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobeecode&theme=dark&hide_border=true)
 
 
 ## ☕ Support Me
