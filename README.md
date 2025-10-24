@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hi, There 👋 I'm Gopalakrishnan (aka GobeeCode)</h1>
+<h1 align="left"> Hi, There 👋 I'm Gopalakrishnan (@GobeeCode)</h1>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gobeecode.visitor-badge&left_color=blue&right_color=gray&left_text=Viewers)
 
@@ -31,14 +31,13 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 
 ## 📊 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&theme=dark&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gobeecode&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gobeecode&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gobeecode&theme=merko&&days=30&height=600&hide_border=true)](https://github.com/gobeecode/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gobeecode&theme=merko&&days=30&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&line=10b981&&point=10b981&hide_border=true)](https://github.com/gobeecode/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobeecode&theme=dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobeecode&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en)
 
 ## ☕ Support Me
 
