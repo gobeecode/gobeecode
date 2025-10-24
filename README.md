@@ -18,7 +18,7 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 
 | Category               | Tools & Technologies                                                                                                          |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Test Automation (UI)   | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge) ![Squish](https://img.shields.io/badge/Squish-00AA00?style=for-the-badge) ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge) ![Appium](https://img.shields.io/badge/Appium-9B4FE9?logo=appium&logoColor=white&style=for-the-badge) ![WinAppDriver](https://img.shields.io/badge/WinAppDriver-0078D7?style=for-the-badge) ![PywinAuto](https://img.shields.io/badge/Pywinauto-3776AB?style=for-the-badge) |
+| Test Automation (UI)   | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge) ![Squish](https://img.shields.io/badge/Squish-00AA00?style=for-the-badge) ![Playwright](https://img.shields.io/badge/Playwright-17202C?logo=playwright&logoColor=white&style=for-the-badge) ![WinAppDriver](https://img.shields.io/badge/WinAppDriver-0078D7?style=for-the-badge) ![PywinAuto](https://img.shields.io/badge/Pywinauto-3776AB?style=for-the-badge) ![Appium](https://img.shields.io/badge/Appium-9B4FE9?logo=appium&logoColor=white&style=for-the-badge)|
 | Test Automation (API)  | ![REST](https://img.shields.io/badge/REST-0096D6?style=for-the-badge) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge) ![RestSharp](https://img.shields.io/badge/RestSharp-800000?style=for-the-badge) ![RestAssured](https://img.shields.io/badge/RestAssured-16A085?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge) |
 | Security Testing       | ![Burp Suite](https://img.shields.io/badge/BurpSuite-1C1C1C?style=for-the-badge) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00ADEF?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-9BE9A8?style=for-the-badge) ![Wireshark](https://img.shields.io/badge/Wireshark-05A5D1?style=for-the-badge) ![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge) ![Metasploit](https://img.shields.io/badge/Metasploit-FF5C57?style=for-the-badge) ![Hydra](https://img.shields.io/badge/Hydra-FF6600?style=for-the-badge) ![Hashcat](https://img.shields.io/badge/Hashcat-0066CC?style=for-the-badge) |
 | Performance Testing    | ![JMeter](https://img.shields.io/badge/JMeter-6DB33F?logo=apachejmeter&logoColor=white&style=for-the-badge)                                                                              |
@@ -70,8 +70,6 @@ If my work helped you, consider supporting me via the below links 👇
 </p>
 
 
-### 🔚 That’s all folks!
+_"Think twice. Code once!. Happy Coding 💻❤️"_
 
-_“Code. Break. Fix. Repeat. And then automate the whole thing.”_
 
-Happy Coding 💻❤️
