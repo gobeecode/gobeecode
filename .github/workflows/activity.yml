@@ -15,4 +15,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: gobeecode
