@@ -67,8 +67,6 @@ If my work helped you, consider supporting me via the below links 👇
   </a>
 </p>
 
-
-
 ## 🔗 Connect with Me
 
 <p align="left"> 
@@ -81,6 +79,7 @@ If my work helped you, consider supporting me via the below links 👇
 </p>
 
 
-_"Think twice. Code once!. Happy Coding 💻❤️"_
+_"Think twice. Code once!._
 
+Happy Coding 💻❤️"
 
