@@ -36,8 +36,6 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 ### Contribution Graph
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gobeecode&theme=merko&&days=30&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&line=10b981&&point=10b981&hide_border=true)](https://github.com/gobeecode/github-readme-activity-graph)
 
-### Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gobeecode&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
 
 ### Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true)
