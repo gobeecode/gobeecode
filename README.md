@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=gobeecode&label=Profile%20Views&color=10b981&style=for-the-badge" alt="profile views" />
 </p>
 
-<img src="images/coder.gif" width="350" height="350" alt="gobeecode-banner-image">
-
-<br/>
-
 I'm a passionate **Software Engineer** with over a **decade of experience** in building and testing enterprise-grade applications.
 
 💻 Welcome to my digital garage — where I **make, break, and automate** everything I come across.
@@ -17,6 +13,11 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 - 😎 Passion for developing software. At times, I switch my **developer** mode ON!
 - 🐍 **Python** makes my life easier, unlike the one in the wild!
 - 🌐 **Vue and React** makes it beautiful, Angular, I'm sorry!
+
+<br/>
+
+<img src="images/coder.gif" width="350" height="350" alt="gobeecode-banner-image">
+
 
 ## 🛠️ Tools & Technologies
 
