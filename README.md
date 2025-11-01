@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=gobeecode&label=Profile%20Views&color=10b981&style=for-the-badge" alt="profile views" />
 </p>
 
-<img src="images/developer.png" width="750" height="500" alt="gobeecode-banner-image">
+<img src="images/coder.gif" width="350" height="350" alt="gobeecode-banner-image">
+
+<br/>
 
 I'm a passionate **Software Engineer** with over a **decade of experience** in building and testing enterprise-grade applications.
 
