@@ -14,8 +14,6 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 - 🐍 **Python** makes my life easier, unlike the one in the wild!
 - 🌐 **Vue and React** makes it beautiful, Angular, I'm sorry!
 
-<br/>
-
 <img src="images/coder.gif" width="350" height="350" alt="gobeecode-banner-image">
 
 
