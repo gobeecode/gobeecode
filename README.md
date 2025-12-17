@@ -67,12 +67,8 @@ If my work helped you, consider supporting me via the below links 👇
 ## 🔗 Connect with Me
 
 <p align="left"> 
-  <a href="https://github.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/> </a>&nbsp;&nbsp; 
   <a href="https://linkedin.com/in/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>&nbsp;&nbsp; 
   <a href="https://x.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter X" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://instagram.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://facebook.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://medium.com/@gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/medium-logo.png" alt="Medium" width="40" height="40"/> </a> 
 </p>
 
 
