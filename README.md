@@ -2,7 +2,7 @@
 <h1 align="left"> Hi, There 👋 I'm Gopalakrishnan (@qacancode)</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gobeecode&label=Profile%20Views&color=10b981&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=qacancode&label=Profile%20Views&color=10b981&style=for-the-badge" alt="profile views" />
 </p>
 
 I'm a passionate **Software Engineer** with over a **decade of experience** in building and testing enterprise-grade applications.
@@ -37,14 +37,14 @@ I'm a passionate **Software Engineer** with over a **decade of experience** in b
 ## 📊 GitHub Stats
 
 ### Contribution Graph
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gobeecode&theme=merko&&days=30&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&line=10b981&&point=10b981&hide_border=true)](https://github.com/gobeecode/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qacancode&theme=merko&&days=30&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&line=10b981&&point=10b981&hide_border=true)](https://github.com/gobeecode/github-readme-activity-graph)
 
 
 ### Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qacancode&show_icons=true&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobeecode&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qacancode&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en)
 
 
 ## ☕ Support Me
@@ -53,11 +53,11 @@ If my work helped you, consider supporting me via the below links 👇
 
 <p align="left">
   <!-- Buy Me a Coffee -->
-  <a href="https://buymeacoffee.com/gobeecode" target="_blank" style="margin-right:12px">
+  <a href="https://buymeacoffee.com/qacancode" target="_blank" style="margin-right:12px">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&labelColor=00000000&color=FFDD00&logo=buymeacoffee&logoColor=000" alt="Buy Me A Coffee" />
   </a>
   <!-- Razorpay -->
-  <a href="https://razorpay.me/@gobeecode" target="_blank">
+  <a href="https://razorpay.me/@qacancode" target="_blank">
     <img src="https://img.shields.io/badge/Donate%20(via%20Razorpay)-FFDD00?style=for-the-badge&labelColor=00000000&color=FFDD00&logo=razorpay&logoColor=000" alt="Donate via Razorpay" />
   </a>
 </p>
@@ -67,8 +67,8 @@ If my work helped you, consider supporting me via the below links 👇
 ## 🔗 Connect with Me
 
 <p align="left"> 
-  <a href="https://linkedin.com/in/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://x.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter X" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://linkedin.com/in/qacancode" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://x.com/qacancode" target="_blank"> <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter X" width="40" height="40"/> </a>&nbsp;&nbsp; 
 </p>
 
 
